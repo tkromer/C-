@@ -1,0 +1,4 @@
+The program employeeInfo is designed to read in 3 employee's names, salarys,
+and percent raise from a text file, calculate the raise, and display the results
+in the proper format. The program worked as intended on the first test and
+required no changes.
